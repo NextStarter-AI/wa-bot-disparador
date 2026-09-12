@@ -1,0 +1,13 @@
+{
+  "name": "wa-bot-disparador",
+  "version": "1.0.0",
+  "description": "Bot disparador de mensagens no WhatsApp usando whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.34.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
